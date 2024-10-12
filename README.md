@@ -1,1 +1,1 @@
-"# DjangoAndGraphQL" 
+# Django And GraphQL Integration
